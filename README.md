@@ -6,9 +6,12 @@ Dataset from Johns Hopkins University: https://github.com/CSSEGISandData/COVID-1
 
 ## Usage:
 
-Edit the config cell in the notebook to edit the configuration. Then, run all cells. This notebook will output png files to the root folder. 
+Edit the config cell in the `analysis.ipynb` notebook to edit the configuration. Then, run all cells. This notebook will output png files to the root folder. 
     
-    
+## Contributing:
+
+Contributions are welcome. See [CONTRIBUTING.md](https://github.com/devksingh4/coronavirus-graphing/blob/master/CONTRIBUTING.md)
+
 ## License Notice: 
 Coronavirus (SARS-nCOV-2) Graphing Utility
  
